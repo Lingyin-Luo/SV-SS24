@@ -10,7 +10,7 @@ reading [this paper](https://github.com/Lingyin-Luo/SV-SS24/blob/main/reading%20
 
 
 #### 2. CEGAR
-##### [Explicite-state model checking based on CEGAR and Interpolation](https://link.springer.com/chapter/10.1007/978-3-642-37057-1_11)
+##### [Explicite-state model checking based on CEGAR and Interpolation](https://github.com/Lingyin-Luo/SV-SS24/blob/main/reading%20materials/cegar-01.pdf)
 counterexample guided  abstraction refinement
 > a technique for automatic stepweise refinement for an abstract model
 
