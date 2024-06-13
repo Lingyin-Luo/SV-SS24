@@ -5,7 +5,7 @@ Gitlab Page: [click](https://gitlab2.cip.ifi.lmu.de/sosy-lab/sv-notebooks-ss24)
 
 #### 1. Predicate analysis
 ##### 1.1 Predicate abstraction
-reading this paper section 2B
+reading [this paper](https://github.com/Lingyin-Luo/SV-SS24/blob/main/reading%20materials/predicate-analysis-01.pdf) section 2B
 
 
 
